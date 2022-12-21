@@ -23,3 +23,16 @@ Conclusion:
 - Sub-data frame of california's total cases and days do not follow the stated distribution.
 - Since we used exponential function of numpy.random for creating a random data, the data is following exponential distribution.
 - We can analyse and manipulate the given data with the help of pandas and numpy library and for plotting we used matplotlib.pyplot.
+
+
+# Mini project 03 -
+Exploring the Data Sets of Hotel  bookings
+
+Conclusion:
+- According to given data, two types of hotels categories preferred by customers are "City Hotel" and "Resort Hotel".
+- Among these 2 categories "City Hotel" have more booking than "Resort Hotel" throughout the year.
+- August, July, May, October and April had highest number of bookings in year respectively.
+- Both categories have bookings mainly in mid-time of the month i,e around 15th date of each month.
+- There are more average days in waiting list for "City Hotel" than "Resort Hotel".
+- On average Customer mainly prefers "Resort Hotel" for weekend night stays than "City Hotel".
+- During weekdays also on average customer prefers "Resort Hotel" than "City Hotel" for night stays.
