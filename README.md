@@ -2,7 +2,7 @@
 In the process of learning Python Programming Language, I tried executing all concepts practically with the help mini projects. I will be uploading all mini-projects here one by one. If you have any suggestions do let me konw. 
 
 # Mini-Project 01-
-Generating Data with noise, Plotting Single file data with best fit curves and Multiple Text File Handling
+## Generating Data with noise, Plotting Single file data with best fit curves and Multiple Text File Handling
 
 Conclusion:
 - 4 steps for curve fitting of and distribtution or data-
@@ -17,7 +17,7 @@ Executing curve fit on the data and plotting it.
 
 
 # Mini Project 02 - 
-Plotting Covid-19 cases and deaths by states with best fit curve 
+## Plotting Covid-19 cases and deaths by states with best fit curve 
 
 Conclusion:
 - Sub-data frame of california's total cases and days do not follow the stated distribution.
@@ -26,7 +26,7 @@ Conclusion:
 
 
 # Mini project 03 -
-Exploring the Data Sets of Hotel  bookings
+## Exploring the Data Sets of Hotel  bookings
 
 Conclusion:
 - According to given data, two types of hotels categories preferred by customers are "City Hotel" and "Resort Hotel".
