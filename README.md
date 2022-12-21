@@ -53,6 +53,10 @@ Conclusion:
 # Mini Project 04 - 
 ## Titanic Survivors Data Exploration and Visualization
 
+Objectives-
+- Understanding concepts of exploratory data analysis.
+- Tools and commandsrequired for exploratory data analysis
+- 
 Conclusion:
 - We can see that amongst those who survived, maximum number of passengers had embarked at Southhampton.
 - Because of 25% of correlation between survived and fare, we can say that mostly passengers who survived had higher average fares i.e mainly first class passengers.
