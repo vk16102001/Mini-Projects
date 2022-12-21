@@ -4,6 +4,11 @@ In the process of learning Python Programming Language, I tried executing all co
 # Mini-Project 01-
 ## Generating Data with noise, Plotting Single file data with best fit curves and Multiple Text File Handling
 
+Objectives:
+- Generating Data with noise.
+- Plottng single file data with best fit curves.
+- Multiple File Handling.
+
 Conclusion:
 - 4 steps for curve fitting of and distribtution or data-
 Generating or importing data.
@@ -19,6 +24,9 @@ Executing curve fit on the data and plotting it.
 # Mini Project 02 - 
 ## Plotting Covid-19 cases and deaths by states with best fit curve 
 
+Objectives-
+EDA and Curve fitting
+
 Conclusion:
 - Sub-data frame of california's total cases and days do not follow the stated distribution.
 - Since we used exponential function of numpy.random for creating a random data, the data is following exponential distribution.
@@ -27,6 +35,10 @@ Conclusion:
 
 # Mini project 03 -
 ## Exploring the Data Sets of Hotel  bookings
+
+Objectives-
+- Understanding concepts of exploratory data analysis.
+- Tools and commandsrequired for exploratory data analysis
 
 Conclusion:
 - According to given data, two types of hotels categories preferred by customers are "City Hotel" and "Resort Hotel".
