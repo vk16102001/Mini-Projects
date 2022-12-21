@@ -14,3 +14,12 @@ Executing curve fit on the data and plotting it.
 - We use the function curve_fit from the python module scipy.optimize to fit our data. It uses non-linear least squares to fit data to a functional form. One can learn more about curve_fit by using the help function within the Jupyter notebook or scipy online documentation. The curve_fit function has three required inputs: the function you want to fit, the x-data, and the y-data you fit. There are two outputs. The first is an array of the optimal values of the parameters. The second is a matrix of the estimated covariance of the parameters from which you can calculate the standard error for the parameters.
 - We use for loop for mutiple file handling. Alos we used "for loop" for sorting and arranging data in order and avoid scatterness of the plot.
 - Adding titles, labels and legends in the plot makes the plot more attractive and presentable.
+
+
+# Mini Project 02 - 
+Plotting Covid-19 cases and deaths by states with best fit curve 
+
+Conclusion:
+- Sub-data frame of california's total cases and days do not follow the stated distribution.
+- Since we used exponential function of numpy.random for creating a random data, the data is following exponential distribution.
+- We can analyse and manipulate the given data with the help of pandas and numpy library and for plotting we used matplotlib.pyplot.
